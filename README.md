@@ -4,11 +4,11 @@
 Objetivo:
 
 - [X] Recebemos um notebook (criacao_modelo.ipynb), um modelo (finalized_model.sav) e dados crus(002_20_all_Q.csv);
-- [] Refatorar código notebook buscando identificar pipelines, métricas e bibliotecas;
-- [] Criar dados de treinamento;
-- [] Criar pipeline para gerar dados de treinamento a partir de novos dados;
-- [] Disponível em produção (FAST API);
-- [] Nuvem (Heroku);
+- [ ] Refatorar código notebook buscando identificar pipelines, métricas e bibliotecas;
+- [ ] Criar dados de treinamento;
+- [ ] Criar pipeline para gerar dados de treinamento a partir de novos dados;
+- [ ] Disponível em produção (FAST API);
+- [ ] Nuvem (Heroku);
  
 Estudo:
 
