@@ -7,7 +7,7 @@ Objetivo:
 - [ ] Refatorar código notebook buscando identificar pipelines, métricas e bibliotecas;
 - [ ] Criar dados de treinamento;
 - [ ] Criar pipeline para gerar dados de treinamento a partir de novos dados;
-- [ ] Disponível em produção (FAST API);
+- [X] Disponível em produção (FAST API);
 - [ ] Nuvem (Heroku);
  
 Estudo:
