@@ -3,7 +3,7 @@ import sklearn
 import pandas as pd
 
 def load_model():
-    loaded_model = pickle.load(open('../models/finalized_model.sav', 'rb'))
+    loaded_model = pickle.load(open('models/finalized_model.sav', 'rb'))
     return loaded_model
 
 def make_prediction(model, Q, fieldGoalsMade, fieldGoalsAttempted, threePointersMade,

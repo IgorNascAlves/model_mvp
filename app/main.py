@@ -1,7 +1,7 @@
 from typing import Union
 from fastapi import FastAPI
 
-from models_utils import load_model, make_prediction
+from utils.models_utils import load_model, make_prediction
 
 app = FastAPI()
 loaded_model = load_model()
