@@ -8,7 +8,7 @@ Objetivo:
 - [ ] Criar dados de treinamento;
 - [ ] Criar pipeline para gerar dados de treinamento a partir de novos dados;
 - [X] Disponível em produção (FAST API);
-- [ ] Nuvem (Heroku);
+- [X] Nuvem (Heroku);
  
 Estudo:
 
